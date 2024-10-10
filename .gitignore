@@ -1,0 +1,57 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# React build artifacts
+/build
+/public/static
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Java/Spring Boot
+target/
+*.jar
+*.war
+*.class
+*.log
+*.pid
+*.tar.gz
+*.tgz
+*.zip
+
+# IDE specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.class
+*.jar
+*.war
+*.log
+*.pid
+*.tar.gz
+*.tgz
+*.zip
+
+# Build directories
+build/
+out/
+dist/
