@@ -7,7 +7,7 @@ package-lock.json
 yarn.lock
 
 # React build artifacts
-/build
+/buildgt
 /public/static
 
 # Environment variables
