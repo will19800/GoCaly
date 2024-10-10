@@ -2,3 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+.custom-border {
+    border-bottom: 0.5px solid rgba(169, 169, 169, 1); 
+}
+
+.background-grid-image {
+    background-image: url('/gridimage.jpg');
+    background-size: cover;
+    background-position: center;
+  }
